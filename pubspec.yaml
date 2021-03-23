@@ -1,0 +1,14 @@
+name: proveyourworth
+description: a script made in Dart solving a internet puzzle
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+ path: ^1.7.0
+ http: ^0.12.2
+ image: ^2.1.19
+ html: ^0.14.0+4
+
+dev_dependencies:
+  pedantic: ^1.9.0
